@@ -9502,7 +9502,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .navbar-dark .navbar-nav .nav-link {
   padding: 20px 10px;
-  color: #F5F5F5;
+  color: #0c11ab;
   outline: none;
 }
 
@@ -9709,4 +9709,31 @@ a.text-dark:hover, a.text-dark:focus {
   100% {
     transform: translateY(-15px);
   }
+}
+.contenedor{
+  background: linear-gradient(to bottom,#2668ed, rgba(2, 699, 5,.5));
+}
+
+.contenedor2{
+  background-color: #fafbfc;
+}
+.navbar-dark2{
+  color: #100573;
+}
+.brand img {
+  width: 100px;
+  height: 100px;
+}
+.contenedor3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 200px;
+  text-shadow: 0.1em 0.1em 0.5em black;
+}
+.px-xl-6 {
+  padding-left: 4rem !important;
+}
+
+navbar-dark3{
+  color: ;
 }
